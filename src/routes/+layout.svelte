@@ -43,7 +43,7 @@ let { data, children } = $props();
       <ul class="flex flex-row flex-wrap gap-x-6 p-2">
         <!-- Dynamic page links -->
         {#each data.pages as item (item.id)}
-          <li><a class="block p-2 underline" href="/{item.id}">{item.title}</a></li>
+          <li><a class="block p-2 underline" href={`${base}/${item.id}`}>{item.title}</a></li>
         {/each}
         <!-- Social/external links -->
         <!-- <li>
