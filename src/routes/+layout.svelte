@@ -12,7 +12,6 @@ let { data, children } = $props();
 <!-- Document head modifications - favicon and RSS feed -->
 <svelte:head>
   <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
-  <link rel="alternate" type="application/rss+xml" title="RSS" href={`${base}/feed.xml`} />
 </svelte:head>
 
 <!-- Page loading indicator component -->
@@ -42,8 +41,6 @@ let { data, children } = $props();
     <!-- Navigation menu -->
     <nav class="py-4 text-xl md:p-4">
       <ul class="flex flex-row flex-wrap gap-x-6 p-2">
-        <!-- RSS Feed link -->
-        <li><a class="flex flex-row gap-0.5 p-2 underline" href="/feed.xml">Feed</a></li>
         <!-- Dynamic page links -->
         {#each data.pages as item (item.id)}
           <li><a class="block p-2 underline" href="/{item.id}">{item.title}</a></li>
