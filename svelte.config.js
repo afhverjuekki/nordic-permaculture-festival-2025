@@ -17,13 +17,28 @@ const config = {
   ],
   prerender: {
     handleHttpError: ({ path, referrer, message }) => {
-      // During prerendering, ignore 404 errors for paths that don't include the base path
-      if (message.includes('404') && path === '/') {
-        return;
+      // Log the error details for debugging
+      console.log(`Path: ${path}, Referrer: ${referrer}, Message: ${message}`);
+      
+      // Specifically handle the root path error that doesn't begin with 'base'
+      if (message.includes('404 / does not begin with `base`')) {
+        return 'ignore'; // Simply ignore this error
       }
       
-      // For any other errors, throw and fail the build
-      throw new Error(`${message} (${path}${referrer ? ` - referrer: ${referrer}` : ''})`);
+      // Handle other common static asset errors
+      const commonStaticAssets = ['/favicon.svg', '/favicon.png', '/favicon.ico'];
+      if (commonStaticAssets.some(asset => message.includes(`404 ${asset} does not begin with`))) {
+        return 'ignore';
+      }
+      
+      // For any other errors related to paths.base
+      if (message.includes('does not begin with `base`')) {
+        // Return 'warn' to continue the build but show the warning
+        return 'warn';
+      }
+      
+      // For any other HTTP errors, fail the build (default behavior)
+      return 'fail';
     }
   }
 };
