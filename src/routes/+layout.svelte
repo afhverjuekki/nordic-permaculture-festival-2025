@@ -22,7 +22,7 @@ let { data, children } = $props();
   <!-- Header section with logo and site title -->
   <header class="flex flex-row px-4 py-8 md:p-8">
     <figure>
-      <a class="flex flex-row items-center gap-4" href="/" title={config.siteTitle}>
+      <a class="flex flex-row items-center gap-4" href={`${base}`} title={config.siteTitle}>
         <Logo />
         <!-- display site title next to the logo
         <h1 class="text-3xl leading-none tracking-tight">{config.siteTitle}</h1>
