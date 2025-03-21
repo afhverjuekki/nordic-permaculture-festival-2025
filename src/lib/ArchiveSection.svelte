@@ -1,6 +1,7 @@
 <script>
 import { format } from 'date-fns';
 import { page } from '$app/state';
+import { base } from '$app/paths';
 import config from '/src/config';
 import Header from '$lib/Header.svelte';
 import Action from '$lib/Action.svelte';
@@ -19,7 +20,7 @@ let { limit = 5, posts = page.data.posts.slice(0, limit || Infinity), header } =
     <ul class="text-metadata space-y-2 sm:space-y-0">
       {#each posts as item (item.id)}
         <li>
-          <a class="block py-1 sm:flex sm:flex-row sm:items-start sm:gap-4" href="/{item.id}">
+          <a class="block py-1 sm:flex sm:flex-row sm:items-start sm:gap-4" href={`${base}/${item.id}`}>
             <span class="block">
               {#if item.pinned}<span class="float-left mr-1 flex"><PinIcon /></span>{/if}
               <span class="underline sm:flex-1">{item.title}</span>
@@ -35,7 +36,7 @@ let { limit = 5, posts = page.data.posts.slice(0, limit || Infinity), header } =
   </div>
   {#if limit}
     <Action class="px-4 py-8 md:p-8">
-      <Button href="/archive">All posts &rarr;</Button>
+      <Button href={`${base}/archive`}>All posts &rarr;</Button>
     </Action>
   {/if}
 </section>

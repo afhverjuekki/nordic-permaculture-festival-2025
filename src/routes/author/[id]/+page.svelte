@@ -1,5 +1,6 @@
 <script>
 import config from '/src/config';
+import { base } from '$app/paths';
 import SEO from '$lib/SEO.svelte';
 import ArchiveSection from '$lib/ArchiveSection.svelte';
 
@@ -14,7 +15,7 @@ let { data } = $props();
 
 <ArchiveSection posts={data.posts}>
   {#snippet header()}
-    <a class="hover:underline" href="/archive">{config.archiveTitle}</a>
+    <a class="hover:underline" href={`${base}/archive`}>{config.archiveTitle}</a>
     <span class="text-current/20">/</span>
     {data.author}
   {/snippet}
