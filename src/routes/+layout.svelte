@@ -4,14 +4,15 @@ import '/src/css/index.css';
 import config from '/src/config';
 import Logo from '$lib/Logo.svelte';
 import PageLoader from './PageLoader.svelte';
+import { base } from '$app/paths';
 
 let { data, children } = $props();
 </script>
 
 <!-- Document head modifications - favicon and RSS feed -->
 <svelte:head>
-  <!-- <link rel="icon" type="image/svg+xml" href="/favicon.svg" /> -->
-  <!-- <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml" /> -->
+  <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
+  <link rel="alternate" type="application/rss+xml" title="RSS" href={`${base}/feed.xml`} />
 </svelte:head>
 
 <!-- Page loading indicator component -->

@@ -1,5 +1,6 @@
 <script>
 import { page } from '$app/state';
+import { base } from '$app/paths';
 import Header from '$lib/Header.svelte';
 import Action from '$lib/Action.svelte';
 import Button from '$lib/Button.svelte';
@@ -23,6 +24,6 @@ import Button from '$lib/Button.svelte';
   </div>
 
   <Action class="px-4 py-8 md:p-8">
-    <Button href="/">Return home</Button>
+    <Button href={`${base}/`}>Return home</Button>
   </Action>
 </section>
