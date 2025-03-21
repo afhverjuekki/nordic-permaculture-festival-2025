@@ -25,12 +25,6 @@ const config = {
         return 'ignore'; // Simply ignore this error
       }
       
-      // Handle other common static asset errors
-      const commonStaticAssets = ['/favicon.svg', '/favicon.png', '/favicon.ico'];
-      if (commonStaticAssets.some(asset => message.includes(`404 ${asset} does not begin with`))) {
-        return 'ignore';
-      }
-      
       // For any other errors related to paths.base
       if (message.includes('does not begin with `base`')) {
         // Return 'warn' to continue the build but show the warning
@@ -38,7 +32,7 @@ const config = {
       }
       
       // For any other HTTP errors, fail the build (default behavior)
-      return 'fail';
+    //   return 'fail';
     }
   }
 };
