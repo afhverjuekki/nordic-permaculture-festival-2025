@@ -24,6 +24,6 @@ import Button from '$lib/Button.svelte';
   </div>
 
   <Action class="px-4 py-8 md:p-8">
-    <Button href={`${base}/`}>Return home</Button>
+    <Button href={`${base}`}>Return home</Button>
   </Action>
 </section>
