@@ -36,7 +36,7 @@ This is an opportunity to connect with like minded people, learn new skills and 
 If you would like to share your knowledge and hold a workshop at the festival, please get in touch with us by filling out this form: 
 
 <Action>
-    <Button href="https://docs.google.com/forms/d/e/1FAIpQLSfTTdueCpImNKQ-uztsNKiE6uFs3GrI3onjMj7RT68lh5\_y7Q/viewform?usp=sharing">Apply to Host a Workshop</Button>
+    <Button href="https://docs.google.com/forms/d/e/1FAIpQLSfTTdueCpImNKQ-uztsNKiE6uFs3GrI3onjMj7RT68lh5_y7Q/viewform">Apply to Host a Workshop</Button>
 </Action>
 
 There will be regular updates to this website, as the program enfolds.  Stay updated on this website, and on our [Instagram](https://www.instagram.com/nordicpermaculturefestival/) & [Facebook](https://www.facebook.com/TheNordicPermacultureFestival) page.
