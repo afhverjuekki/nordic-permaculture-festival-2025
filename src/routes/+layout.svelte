@@ -12,7 +12,7 @@ let { data, children } = $props();
 
 <!-- Document head modifications - favicon and RSS feed -->
 <svelte:head>
-  <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
+  <link rel="icon" type="image/png" href={`${base}/favicon.png`} />
 </svelte:head>
 
 <!-- Page loading indicator component -->
