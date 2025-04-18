@@ -6,6 +6,7 @@ import Logo from '$lib/Logo.svelte';
 import PageLoader from './PageLoader.svelte';
 import { base } from '$app/paths';
 import Image from '$lib/Image.svelte';
+import base from '$app/paths';
 
 let { data, children } = $props();
 </script>
@@ -25,7 +26,7 @@ let { data, children } = $props();
     <figure>
       <a class="flex flex-row items-center gap-4" href={`${base}`} title={config.siteTitle}>
         <!-- <Logo /> -->
-        <!-- <Image src="/img/logo_b.png" width="128" height="128" alt="Nordic Permaculture Festival 2025" /> -->
+        <Image src={`${base}/img/logo_b.png`} width="128" height="128" alt="Nordic Permaculture Festival 2025" />
         <!-- display site title next to the logo
         <h1 class="text-3xl leading-none tracking-tight">{config.siteTitle}</h1>
       -->
