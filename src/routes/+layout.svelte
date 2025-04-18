@@ -25,14 +25,14 @@ let { data, children } = $props();
     <figure>
       <a class="flex flex-row items-center gap-4" href={`${base}`} title={config.siteTitle}>
         <!-- <Logo /> -->
-        <Image src="/img/logo_b.png" width="128" height="128" alt="Nordic Permaculture Festival 2025" />
+        <!-- <Image src="/img/logo_b.png" width="128" height="128" alt="Nordic Permaculture Festival 2025" /> -->
         <!-- display site title next to the logo
         <h1 class="text-3xl leading-none tracking-tight">{config.siteTitle}</h1>
       -->
       </a>
     </figure>
     <div class="flex-1">  
-      <Image src="/img/npf2025_banner.jpg" alt="Nordic Permaculture Festival 2025" />
+      <!-- <Image src="/img/npf2025_banner.jpg" alt="Nordic Permaculture Festival 2025" /> -->
     </div>
   </header>
 
