@@ -76,7 +76,7 @@ let { data, children } = $props();
     <div class="copy px-4 py-8 text-xl md:p-8">
       <p>
         &copy; {new Date().getFullYear()}
-        {config.siteTitle} <span class="mx-2 inline-block text-current/20">|</span> Built by <a href="https://æ.is/">Afhverju Ekki</a>
+        {config.siteTitle} <span class="mx-2 inline-block text-current/20">|</span> Built with 🌱 by <a href="https://æ.is/">Afhverju Ekki</a>
       </p>
     </div>
   </footer>
