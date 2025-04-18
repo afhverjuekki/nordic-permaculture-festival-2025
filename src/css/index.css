@@ -28,10 +28,6 @@
 @import './copy';
 
 @theme {
-  --color-text: var(--color-neutral-950);
-  --color-background: var(--color-white);
-  --color-shade: color-mix(in srgb, var(--color-text), transparent 95%);
-
   --spacing-container: 49rem;
 
   --text-action: 18px;
@@ -42,12 +38,13 @@
 
   --cosmic-latte: #F9F1DEff;
   --polynesian-blue: #08428Bff;
+  --polynesian-blue-light: #dae3ee;
+  --polynesian-blue-dark: #052853;
   --burnt-sienna: #EB714Bff;
   --dartmouth-green: #256B47ff;
   --fire-engine-red: #CE1219ff;
   --sunset: #E9C88Fff;
 
-  /* Aliases */
   --color-background: var(--cosmic-latte);
   --color-text: var(--polynesian-blue);
   --color-primary: var(--burnt-sienna);
@@ -58,8 +55,12 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --color-text: var(--color-neutral-100);
-    --color-background: var(--color-neutral-950);
+    --color-background: var(--polynesian-blue-dark);
+    --color-text: var(--cosmic-latte);
+    --color-primary: var(--burnt-sienna);
+    --color-secondary: var(--dartmouth-green);
+    --color-accent: var(--fire-engine-red);
+    --color-highlight: var(--sunset);
   }
 }
 
