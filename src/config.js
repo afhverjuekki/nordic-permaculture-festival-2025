@@ -1,6 +1,6 @@
 const config = {
-  siteTitle: 'Tablog',
-  siteTagline: 'Minimalistic Blog Theme for SvelteKit',
+  siteTitle: 'Nordic Permaculture Festival 2025',
+  siteTagline: 'A gathering of nature lovers, change-makers and permaculture enthusiasts focused on connection, learning and hands-on action.',
   archiveTitle: 'Archive',
   dateFormat: 'MMM dd, yyyy',
 };

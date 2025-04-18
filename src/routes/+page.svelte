@@ -15,4 +15,4 @@ let { data } = $props();
 
 <PostSection post={data.post} />
 
-<ArchiveSection />
+<!-- <ArchiveSection /> -->
