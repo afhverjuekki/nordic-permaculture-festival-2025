@@ -6,7 +6,6 @@ import Logo from '$lib/Logo.svelte';
 import PageLoader from './PageLoader.svelte';
 import { base } from '$app/paths';
 import Image from '$lib/Image.svelte';
-import base from '$app/paths';
 
 let { data, children } = $props();
 </script>
