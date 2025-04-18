@@ -32,7 +32,7 @@ let { data, children } = $props();
       </a>
     </figure>
     <div class="flex-1">  
-      <!-- <Image src="/img/npf2025_banner.jpg" alt="Nordic Permaculture Festival 2025" /> -->
+      <Image src={`${base}/img/npf2025_banner.jpg`} alt="Nordic Permaculture Festival 2025" />
     </div>
   </header>
 
