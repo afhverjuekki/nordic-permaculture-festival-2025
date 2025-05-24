@@ -19,6 +19,10 @@ Get ready for an unforgettable gathering of nature lovers, changemakers, and per
 
 This festival is all about **connection, learning, and hands-on action!** We’re here to grow networks, swap knowledge, and share inspiring ways to **regenerate our planet’s resources**. Together, we’ll co-create a space for a more abundant and resilient future—for both people and the Earth. 
 
+<Action>
+    <Button href="https://docs.google.com/forms/d/e/1FAIpQLSe-KoYY44SjDJyT3_Pai0Z2JdsfiRzuh7lcO_vFSgwBv7ExAA/viewform">Buy tickets to the festival</Button>
+</Action>
+
 ## Where in Iceland?
 
 The site for the festival this year is Kirkjulækjakot in Fljótshlíð. 1,5 hours drive from Reykjavík, 7,5 hours drive from the Smyril line ferry from Denmark. The nearest town is Hvolsvöllur, to which there are public buses, we will also have a festival bus picking up passengers on Thursday and back to Hvolsvöllur on the Sunday after the festival.
