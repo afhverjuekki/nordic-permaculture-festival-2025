@@ -14,5 +14,7 @@ description: How to get to the festival
 
 ## How to get to the festival
 
-Some text
+<Action>
+    <Button href="[https://docs.google.com/forms/d/e/1FAIpQLSe-KoYY44SjDJyT3_Pai0Z2JdsfiRzuh7lcO_vFSgwBv7ExAA/viewform](https://maps.app.goo.gl/SVgwUEKyANJkkwnq7)">Location of Lækjartún Farm</Button>
+</Action>
 
