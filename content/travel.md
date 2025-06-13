@@ -12,7 +12,47 @@ description: How to get to the festival
     import Image from  '$lib/Image.svelte'
 </script>
 
-## How to get to the festival
+## How to get to Kirkjulækjakot?
+
+<Action>
+    <Button href="[https://docs.google.com/forms/d/e/1FAIpQLSe-KoYY44SjDJyT3_Pai0Z2JdsfiRzuh7lcO_vFSgwBv7ExAA/viewform](https://maps.app.goo.gl/SVgwUEKyANJkkwnq7)">Location of Lækjartún Farm</Button>
+</Action>
+
+
+The festival site is in a lovely location, not too far from the capital area, but there’s still not public transport all the way up to the festival site.  We have therefore arranged for a festival bus.  Note that the festival bus is cheaper than public transportation.
+
+If you are arriving to Iceland by ferry (Smyril line to Seyðisfjörður), then let us know by email, and we can put you in touch with others traveling with the same ferry to the festival.  A ferry is leaving from Hirtshals Denmark on the 5th of August and arriving 7th August at 8:30 and would be convenient for those that want to travel to the festival through Denmark.  There is lack of public transportation from Seyðisfjörður to Hvolsvöllur, but it is possible to bring a private car to the ferry or hitch-hike to the festival from Seyðisfjörður.
+
+
+## Festival bus
+
+On Thursday we have arranged for a big bus to pick up people from Reykjavík and from Hvolsvöllur (the closest public transportation from the festival site).  There’ll also be a stop on the way in the farm Lækjartún.
+
+On Sunday there’ll also be a bus that will pick up people from the festival site and stop in both Hvolsvöllur and Reykjavík.
+
+Prices for bus:
+
+12:00 Thursday 7th August   Reykjavík > Festival site  = 8.000,- ISK 
+					        Half price for kids 0-15 years = 4.000,- ISK
+
+16:00 Thursday 7th August   Hvolsvöllur > Festival site = 3000,- ISK
+					        Half price for kids 0-15 years = 1.500,- ISK
+—----- 
+
+15:00 Sunday 7th August     Festival site > Reykjavík = 6500,- ISK
+			        		Half price for kids 0-15 years = 3.250,- ISK
+
+15:00 Sunday 7th August     Festival site > Hvolsvöllur = 3000,- ISK
+			        		Half price for kids 0-15 years = 1.500,- ISK
+
+
+## Tour to Lækjartún Farm
+
+Lækjarkot is the first farm in Iceland to be run with Holistic Management, and they have been leading the way for other farms in Iceland to transform their farming techniques.  They have pastures with grazing of cattle, sheep and chickens.  They also grow vegetables in hugelkultur beds.  Alongside the farming they also run a mini mill for making wool yarn. 
+
+On the way from Reykjavík to the festival site the bus will stop in this farm and we’ll get a tour around the farm and wool minimill.  
+
+Festival participants that arrive in a private car can also participate in the tour, and they then arrive to the Lækjarkot location at 14:00 on 7th August.
 
 <Action>
     <Button href="[https://docs.google.com/forms/d/e/1FAIpQLSe-KoYY44SjDJyT3_Pai0Z2JdsfiRzuh7lcO_vFSgwBv7ExAA/viewform](https://maps.app.goo.gl/SVgwUEKyANJkkwnq7)">Location of Lækjartún Farm</Button>
