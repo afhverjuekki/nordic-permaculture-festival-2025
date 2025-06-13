@@ -13,6 +13,6 @@ let { data } = $props();
   og={{ title: data.post.title }}
 />
 
-<PostSection post={data.post} />
-
 <ArchiveSection />
+
+<PostSection post={data.post} />

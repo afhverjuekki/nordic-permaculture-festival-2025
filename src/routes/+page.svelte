@@ -13,6 +13,6 @@ let { data } = $props();
   og={{ title: config.siteTagline }}
 />
 
-<PostSection post={data.post} />
+<ArchiveSection />
 
-<!-- <ArchiveSection /> -->
+<PostSection post={data.post} />

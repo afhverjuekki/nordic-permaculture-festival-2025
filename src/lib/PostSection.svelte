@@ -18,7 +18,7 @@ let { post } = $props();
     <article>
       <Header>{post.title}</Header>
 
-      {#if post.date || post.author || post.tags}
+      <!-- {#if post.date || post.author || post.tags}
         <aside class="text-metadata flex flex-row flex-wrap gap-x-6 px-4 py-3 md:px-8">
           {#if post.date}
             <a class="flex flex-row gap-2 py-1" href={`${base}/${post.id}`}
@@ -47,7 +47,7 @@ let { post } = $props();
             </div>
           {/if}
         </aside>
-      {/if}
+      {/if} -->
 
       <Copy>{@html post.content}</Copy>
     </article>

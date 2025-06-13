@@ -19,28 +19,38 @@ let { data, children } = $props();
 <PageLoader />
 
 <!-- Main layout container -->
-<div class="max-w-screen-lg mx-auto flex min-h-dvh min-h-screen flex-col">
+<div class="mx-auto flex min-h-dvh min-h-screen max-w-screen-lg flex-col">
   <!-- Header section with logo and site title -->
   <header class="flex flex-col px-4 py-8 md:p-8">
     <figure>
-      <a class="flex flex-row items-center gap-4" href={`${base}`} title={config.siteTitle}>
+      <a class="flex flex-row items-center gap-4" href="/" title={config.siteTitle}>
         <!-- <Logo /> -->
         <!-- Light mode logo -->
         <span class="dark:hidden">
-          <Image src={`${base}/img/logo_b.png`} width="128" height="128" alt="Nordic Permaculture Festival 2025" />
+          <Image
+            src={`${base}/img/logo_b.png`}
+            width="128"
+            height="128"
+            alt="Nordic Permaculture Festival 2025"
+          />
         </span>
         <!-- Dark mode logo -->
         <span class="hidden dark:block">
-          <Image src={`${base}/img/logo_w.png`} width="128" height="128" alt="Nordic Permaculture Festival 2025" />
+          <Image
+            src={`${base}/img/logo_w.png`}
+            width="128"
+            height="128"
+            alt="Nordic Permaculture Festival 2025"
+          />
         </span>
         <!-- display site title next to the logo
         <h1 class="text-3xl leading-none tracking-tight">{config.siteTitle}</h1>
       -->
       </a>
     </figure>
-    <div class="flex-1">  
+    <a class="flex flex-1" href="/" title={config.siteTitle}>
       <Image src={`${base}/img/npf2025_banner.jpg`} alt="Nordic Permaculture Festival 2025" />
-    </div>
+    </a>
   </header>
 
   <!-- Main content area - renders child routes -->
@@ -83,7 +93,8 @@ let { data, children } = $props();
     <div class="copy px-4 py-8 text-xl md:p-8">
       <p>
         &copy; {new Date().getFullYear()}
-        {config.siteTitle} <span class="mx-2 inline-block text-current/20">|</span> Built with 🌱 by <a href="https://æ.is/">Afhverju Ekki</a>
+        {config.siteTitle} <span class="mx-2 inline-block text-current/20">|</span> Built with 🌱 by
+        <a href="https://æ.is/">Afhverju Ekki</a>
       </p>
     </div>
   </footer>
