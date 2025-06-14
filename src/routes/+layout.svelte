@@ -89,13 +89,16 @@ let { data, children } = $props();
       </ul>
     </nav>
 
+    <hr class="border-polynesian-blue-light my-10" />
     <!-- Copyright and attribution section -->
-    <div class="copy px-4 py-8 text-xl md:p-8">
+    <div class="copy mb-10 px-4 py-8 text-center text-xl md:p-8">
       <p>
         &copy; {new Date().getFullYear()}
-        {config.siteTitle} <span class="mx-2 inline-block text-current/20">|</span> Built with 🌱 by
-        <a href="https://æ.is/">Afhverju Ekki</a>
+        {config.siteTitle}
+        <span class="mx-2 inline-block text-current/20">|</span>
+        <a href="mailto:vistraektarfelag@gmail.com">vistraektarfelag@gmail.com</a>
       </p>
+      <p>Built with 🌱 by <a href="https://æ.is/">Afhverju Ekki</a></p>
     </div>
   </footer>
 </div>
