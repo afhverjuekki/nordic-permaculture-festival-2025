@@ -24,7 +24,7 @@ Cozy camping area close to the main activities in the Festival.  There’ll be a
 The price is moderate, 1700 ISK for each grownup in the camping area, free for kids 0-15 years old.
 
 
-## Inside accomodation
+## Indoor accomodation
 
 Skálinn is a spacious accommodation house that has two types of rooms, 4 person bedrooms and 6 person bedrooms.  The 4 person bedrooms have two bunk beds, while the 6 person bedrooms have 3 bunk beds.  
 

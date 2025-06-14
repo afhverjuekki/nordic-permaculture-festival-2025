@@ -25,7 +25,7 @@ tags: travel
 />
 
 <Action>
-    <Button href="https://ja.is/kort/?nz=16.84&q=&layer=map&lat=63.738306&lon=-20.029511">Location of Lækjartún Farm</Button>
+    <Button href="https://ja.is/kort/?nz=16.84&q=&layer=map&lat=63.738306&lon=-20.029511">Lækjartún Farm on Já.is</Button>
 </Action>
 
 The festival site is in a lovely location, approximately 1 hour 45 minutes drive from the capital area, but there’s still not public transport all the way up to the festival site.  We have therefore arranged for a festival bus.  Note that the festival bus is cheaper than public transportation.
@@ -41,18 +41,12 @@ On Sunday there’ll also be a bus that will pick up people from the festival si
 
 Prices for bus:
 
-12:00 Thursday 7th August   Reykjavík > Festival site  = 8.000,- ISK 
-					        Half price for kids 0-15 years = 4.000,- ISK
-
-16:00 Thursday 7th August   Hvolsvöllur > Festival site = 3000,- ISK
-					        Half price for kids 0-15 years = 1.500,- ISK
-—----- 
-
-15:00 Sunday 7th August     Festival site > Reykjavík = 6500,- ISK
-			        		Half price for kids 0-15 years = 3.250,- ISK
-
-15:00 Sunday 7th August     Festival site > Hvolsvöllur = 3000,- ISK
-			        		Half price for kids 0-15 years = 1.500,- ISK
+| Time  | Date         | Origin         | Destination     | Adults Price | Kids Price (0-15) |
+|-------|--------------|----------------|-----------------|----------------|-------------------|
+| 12:00 | 7th Aug | Reykjavík      | Festival   | 8,000 ISK      | 4,000 ISK         |
+| 16:00 | 7th Aug | Hvolsvöllur    | Festival   | 3,000 ISK      | 1,500 ISK         |
+| 15:00 | 10th Aug   | Festival  | Reykjavík       | 6,500 ISK      | 3,250 ISK         |
+| 15:00 | 10th Aug   | Festival  | Hvolsvöllur     | 3,000 ISK      | 1,500 ISK         |
 
 
 ## Tour to Lækjartún Farm
@@ -64,6 +58,6 @@ On the way from Reykjavík to the festival site the bus will stop in this farm a
 Festival participants that arrive in a private car can also participate in the tour, and they then arrive to the Lækjarkot location at 14:00 on 7th August.
 
 <Action>
-    <Button href="https://ja.is/kort/?nz=16.84&q=&layer=map&lat=63.738306&lon=-20.029511">Location of Lækjartún Farm</Button>
+    <Button href="https://ja.is/kort/?nz=16.84&q=&layer=map&lat=63.738306&lon=-20.029511">Lækjartún Farm on Já.is</Button>
 </Action>
 

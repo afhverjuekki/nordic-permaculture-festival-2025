@@ -5,8 +5,9 @@
 @font-face {
   font-family: 'Garet';
   src: url('/fonts/Garet-Book.woff2') format('woff2'),
-       url('/fonts/Garet-Book.woff') format('woff');
-  font-weight: 400; /* Book */
+    url('/fonts/Garet-Book.woff') format('woff');
+  font-weight: 400;
+  /* Book */
   font-style: normal;
   font-display: swap;
 }
@@ -14,8 +15,9 @@
 @font-face {
   font-family: 'Garet';
   src: url('/fonts/Garet-Heavy.woff2') format('woff2'),
-       url('/fonts/Garet-Heavy.woff') format('woff');
-  font-weight: 900; /* Heavy */
+    url('/fonts/Garet-Heavy.woff') format('woff');
+  font-weight: 900;
+  /* Heavy */
   font-style: normal;
   font-display: swap;
 }
@@ -70,12 +72,18 @@
     font-family: 'Garet', sans-serif;
     background-color: var(--color-background);
     text-underline-offset: 2px;
+
     & * {
       text-decoration-thickness: 1px;
     }
   }
 
-  h1, h2, h3, h4, h5, h6 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     font-family: 'M PLUS Rounded 1c', sans-serif;
     font-weight: 800;
     text-transform: uppercase;
@@ -83,4 +91,29 @@
     margin-bottom: 0.5rem;
     margin-top: 1rem;
   }
+}
+
+/* General Markdown Table Styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+  table-layout: auto;
+}
+
+th,
+td {
+  padding: 0.75em 1em;
+  text-align: left;
+  min-width: 120px;
+  border-bottom: 1px solid var(--polynesian-blue-light);
+}
+
+th {
+  font-weight: 800;
+  background: var(--polynesian-blue-light);
+}
+
+tr:last-child td {
+  border-bottom: none;
 }
