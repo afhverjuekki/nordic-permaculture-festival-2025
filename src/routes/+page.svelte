@@ -2,7 +2,7 @@
 import config from '/src/config';
 import SEO from '$lib/SEO.svelte';
 import PostSection from '$lib/PostSection.svelte';
-import ArchiveSection from '$lib/ArchiveSection.svelte';
+import MenuNav from '$lib/MenuNav.svelte';
 
 let { data } = $props();
 </script>
@@ -13,6 +13,6 @@ let { data } = $props();
   og={{ title: config.siteTagline }}
 />
 
-<ArchiveSection />
+<MenuNav />
 
 <PostSection post={data.post} />

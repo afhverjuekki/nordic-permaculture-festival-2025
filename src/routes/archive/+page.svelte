@@ -1,7 +1,7 @@
 <script>
 import config from '/src/config';
 import SEO from '$lib/SEO.svelte';
-import ArchiveSection from '$lib/ArchiveSection.svelte';
+import MenuNav from '$lib/MenuNav.svelte';
 </script>
 
 <SEO
@@ -10,4 +10,4 @@ import ArchiveSection from '$lib/ArchiveSection.svelte';
   og={{ title: config.archiveTitle }}
 />
 
-<ArchiveSection limit={false} />
+<MenuNav limit={false} />

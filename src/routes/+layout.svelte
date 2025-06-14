@@ -1,11 +1,11 @@
 <!-- Top-level imports and configuration -->
 <script>
 import '/src/css/index.css';
-import config from '/src/config';
-import Logo from '$lib/Logo.svelte';
+import config from '../config';
 import PageLoader from './PageLoader.svelte';
 import { base } from '$app/paths';
 import Image from '$lib/Image.svelte';
+import Footer from '$lib/Footer.svelte';
 
 let { data, children } = $props();
 </script>
@@ -58,47 +58,5 @@ let { data, children } = $props();
     {@render children()}
   </main>
 
-  <!-- Footer section -->
-  <footer class="mt-8">
-    <!-- Navigation menu -->
-    <nav class="py-4 text-xl md:p-4">
-      <ul class="flex flex-row flex-wrap gap-x-6 p-2">
-        <!-- Dynamic page links -->
-        {#each data.pages as item (item.id)}
-          <li><a class="block p-2 underline" href={`${base}/${item.id}`}>{item.title}</a></li>
-        {/each}
-        <!-- Social/external links -->
-        <!-- <li>
-          <a
-            class="flex flex-row gap-0.5 p-2"
-            href="https://github.com/lemmon/tablog-svelte"
-            target="_blank"
-            rel="external noreferrer nofollow"
-            ><span class="underline">Github</span><span class="text-current/20">&#8599;</span></a
-          >
-        </li> -->
-        <!-- <li>
-          <a
-            class="flex flex-row gap-0.5 p-2"
-            href="https://www.twitter.com/lemmon"
-            target="_blank"
-            rel="external noreferrer nofollow"
-            ><span class="underline">Twitter</span><span class="text-current/20">&#8599;</span></a
-          >
-        </li> -->
-      </ul>
-    </nav>
-
-    <hr class="border-polynesian-blue-light my-10" />
-    <!-- Copyright and attribution section -->
-    <div class="copy mb-10 px-4 py-8 text-center text-xl md:p-8">
-      <p>
-        &copy; {new Date().getFullYear()}
-        {config.siteTitle}
-        <span class="mx-2 inline-block text-current/20">|</span>
-        <a href="mailto:vistraektarfelag@gmail.com">vistraektarfelag@gmail.com</a>
-      </p>
-      <p>Built with 🌱 by <a href="https://æ.is/">Afhverju Ekki</a></p>
-    </div>
-  </footer>
+  <Footer />
 </div>
