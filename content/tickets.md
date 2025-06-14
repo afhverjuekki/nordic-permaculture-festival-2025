@@ -4,6 +4,7 @@ author: Festival Team
 date: 2025-06-13
 pinned: false
 description: Information about festival tickets
+tags: tickets
 ---
 
 <script>

@@ -4,7 +4,7 @@ author: Festival Team
 date: 2025-08-07
 pinned: false
 description: Discover the Nordic Permaculture Festival 2025 in Iceland - a gathering of nature lovers, change-makers and permaculture enthusiasts focused on connection, learning and hands-on action.
-# tags: Dev, Svelte, SvelteKit, Tailwind, CSS, Geek Stuff
+tags: info
 ---
 
 <script>

@@ -4,22 +4,31 @@ author: Festival Team
 date: 2025-06-13
 pinned: false
 description: How to get to the festival
+tags: travel
 ---
 
 <script>
     import Action from '$lib/Action.svelte'
     import Button from '$lib/Button.svelte'
     import Image from  '$lib/Image.svelte'
+    import IFrame from '$lib/IFrame.svelte'
 </script>
 
 ## How to get to Kirkjulækjakot?
 
+<IFrame
+  src="https://ja.is/webapi/kort/?lat=63.738306&lon=-20.029511&nz=16.84&layer=map"
+  title="Example Site"
+  height="500px"
+  allow="fullscreen"
+  allowfullscreen
+/>
+
 <Action>
-    <Button href="[https://docs.google.com/forms/d/e/1FAIpQLSe-KoYY44SjDJyT3_Pai0Z2JdsfiRzuh7lcO_vFSgwBv7ExAA/viewform](https://maps.app.goo.gl/SVgwUEKyANJkkwnq7)">Location of Lækjartún Farm</Button>
+    <Button href="https://ja.is/kort/?nz=16.84&q=&layer=map&lat=63.738306&lon=-20.029511">Location of Lækjartún Farm</Button>
 </Action>
 
-
-The festival site is in a lovely location, not too far from the capital area, but there’s still not public transport all the way up to the festival site.  We have therefore arranged for a festival bus.  Note that the festival bus is cheaper than public transportation.
+The festival site is in a lovely location, approximately 1 hour 45 minutes drive from the capital area, but there’s still not public transport all the way up to the festival site.  We have therefore arranged for a festival bus.  Note that the festival bus is cheaper than public transportation.
 
 If you are arriving to Iceland by ferry (Smyril line to Seyðisfjörður), then let us know by email, and we can put you in touch with others traveling with the same ferry to the festival.  A ferry is leaving from Hirtshals Denmark on the 5th of August and arriving 7th August at 8:30 and would be convenient for those that want to travel to the festival through Denmark.  There is lack of public transportation from Seyðisfjörður to Hvolsvöllur, but it is possible to bring a private car to the ferry or hitch-hike to the festival from Seyðisfjörður.
 
@@ -55,6 +64,6 @@ On the way from Reykjavík to the festival site the bus will stop in this farm a
 Festival participants that arrive in a private car can also participate in the tour, and they then arrive to the Lækjarkot location at 14:00 on 7th August.
 
 <Action>
-    <Button href="[https://docs.google.com/forms/d/e/1FAIpQLSe-KoYY44SjDJyT3_Pai0Z2JdsfiRzuh7lcO_vFSgwBv7ExAA/viewform](https://maps.app.goo.gl/SVgwUEKyANJkkwnq7)">Location of Lækjartún Farm</Button>
+    <Button href="https://ja.is/kort/?nz=16.84&q=&layer=map&lat=63.738306&lon=-20.029511">Location of Lækjartún Farm</Button>
 </Action>
 

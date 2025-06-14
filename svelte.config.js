@@ -18,15 +18,15 @@ const config = {
   prerender: {
     handleHttpError: ({ path, referrer, message }) => {
       console.log(`Path: ${path}, Referrer: ${referrer}, Message: ${message}`);
-      
+
       if (message.includes('404 / does not begin with `base`')) {
         return 'ignore';
       }
-      
+
       if (message.includes('does not begin with `base`')) {
         return 'warn';
       }
-      
+
       return 'fail';
     }
   }
