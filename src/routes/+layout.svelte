@@ -23,7 +23,7 @@ let { data, children } = $props();
   <!-- Header section with logo and site title -->
   <header class="flex flex-col px-4 py-8 md:p-8">
     <figure>
-      <a class="flex flex-row items-center gap-4" href="/" title={config.siteTitle}>
+      <a class="flex flex-row items-center gap-4" href={`${base}/`} title={config.siteTitle}>
         <!-- <Logo /> -->
         <!-- Light mode logo -->
         <span class="dark:hidden">
@@ -48,7 +48,7 @@ let { data, children } = $props();
       -->
       </a>
     </figure>
-    <a class="flex flex-1" href="/" title={config.siteTitle}>
+    <a class="flex flex-1" href={`${base}/`} title={config.siteTitle}>
       <Image src={`${base}/img/npf2025_banner.jpg`} alt="Nordic Permaculture Festival 2025" />
     </a>
   </header>
