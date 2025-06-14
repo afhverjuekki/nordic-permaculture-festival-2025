@@ -1,4 +1,5 @@
 <script>
+import { base } from '$app/paths';
 let {
   src,
   srcset = undefined,
@@ -7,10 +8,12 @@ let {
   alt = '',
   caption = undefined,
 } = $props();
+
+let imgSrc = $derived(`${base}/img/${src}`);
 </script>
 
 <figure>
-  <img {src} {srcset} {width} {height} {alt} />
+  <img src={imgSrc} {srcset} {width} {height} {alt} />
   {#if caption}
     <figcaption>{caption}</figcaption>
   {/if}

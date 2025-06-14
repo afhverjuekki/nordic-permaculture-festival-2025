@@ -28,7 +28,7 @@ let { data, children } = $props();
         <!-- Light mode logo -->
         <span class="dark:hidden">
           <Image
-            src={`${base}/img/logo_b.png`}
+            src={`logo_b.png`}
             width="128"
             height="128"
             alt="Nordic Permaculture Festival 2025"
@@ -37,7 +37,7 @@ let { data, children } = $props();
         <!-- Dark mode logo -->
         <span class="hidden dark:block">
           <Image
-            src={`${base}/img/logo_w.png`}
+            src={`logo_w.png`}
             width="128"
             height="128"
             alt="Nordic Permaculture Festival 2025"
@@ -49,7 +49,7 @@ let { data, children } = $props();
       </a>
     </figure>
     <a class="flex flex-1" href={`${base}/`} title={config.siteTitle}>
-      <Image src={`${base}/img/npf2025_banner.jpg`} alt="Nordic Permaculture Festival 2025" />
+      <Image src={`npf2025_banner.jpg`} alt="Nordic Permaculture Festival 2025" />
     </a>
   </header>
 
