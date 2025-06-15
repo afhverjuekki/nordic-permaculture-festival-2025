@@ -21,7 +21,7 @@ Get ready for an unforgettable gathering of nature lovers, changemakers, and per
 This festival is all about **connection, learning, and hands-on action!** We’re here to grow networks, swap knowledge, and share inspiring ways to **regenerate our planet’s resources**. Together, we’ll co-create a space for a more abundant and resilient future—for both people and the Earth. 
 
 <Action>
-    <Button href={`${base}/tickets`}>Buy tickets to the festival</Button>
+    <Button href={'/tickets'}>Buy tickets to the festival</Button>
 </Action>
 
 ## Where in Iceland?
@@ -41,7 +41,7 @@ This is an opportunity to connect with like minded people, learn new skills and 
 If you would like to share your knowledge and hold a workshop at the festival, please get in touch with us by filling out this form: 
 
 <Action>
-    <Button href={`${base}/apply`}>Apply to Host a Workshop</Button>
+    <Button href={'/apply'}>Apply to Host a Workshop</Button>
 </Action>
 
 There will be regular updates to this website, as the program enfolds.  Stay updated on this website, and on our [Instagram](https://www.instagram.com/nordicpermaculturefestival/) & [Facebook](https://www.facebook.com/TheNordicPermacultureFestival) page.
