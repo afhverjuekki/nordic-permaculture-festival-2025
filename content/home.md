@@ -21,14 +21,22 @@ Get ready for an unforgettable gathering of nature lovers, changemakers, and per
 This festival is all about **connection, learning, and hands-on action!** We’re here to grow networks, swap knowledge, and share inspiring ways to **regenerate our planet’s resources**. Together, we’ll co-create a space for a more abundant and resilient future—for both people and the Earth. 
 
 <Action>
-    <Button href={'/tickets'}>Buy tickets to the festival</Button>
+    <Button href={'/tickets'}>Buy Tickets</Button>
 </Action>
 
 ## Where in Iceland?
 
 The site for the festival this year is Kirkjulækjakot in Fljótshlíð. 1,5 hours drive from Reykjavík, 7,5 hours drive from the Smyril line ferry from Denmark. The nearest town is Hvolsvöllur, to which there are public buses, we will also have a festival bus picking up passengers on Thursday and back to Hvolsvöllur on the Sunday after the festival.
 
+<Action>
+    <Button href={'/travel'}>Travel Info</Button>
+</Action>
+
 In Kirkjulækjakot there’s a complete camping site for those that bring their camping gear.  There’s also plenty of 4-6 person rooms that can be booked.  Either as shared rooms with other festival participants or rented as a private room.
+
+<Action>
+    <Button href={'/accommodation'}>Accommodation Info</Button>
+</Action>
 
 ## Sign up now and get excited!
 
@@ -44,6 +52,8 @@ If you would like to share your knowledge and hold a workshop at the festival, p
     <Button href={'/apply'}>Apply to Host a Workshop</Button>
 </Action>
 
-There will be regular updates to this website, as the program enfolds.  Stay updated on this website, and on our [Instagram](https://www.instagram.com/nordicpermaculturefestival/) & [Facebook](https://www.facebook.com/TheNordicPermacultureFestival) page.
+There will be regular updates to this website, as the program enfolds. If you have any questions please get in touch:
 
-If you have any questions write us an email:  vistraektarfelag@gmail.com
+<Action>
+    <Button href={'/contact'}>Contact Us</Button>
+</Action>
