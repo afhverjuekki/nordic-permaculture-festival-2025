@@ -20,7 +20,7 @@ tags: travel
 <Image
   src={'509308403_1430855091399432_8750695634690696577_n.jpg'}
   width="128"
-  height="128"
+  height="400"
   alt="Kirkjulækjakot"/>
 
 <IFrame
@@ -72,5 +72,5 @@ Festival participants that arrive in a private car can also participate in the t
 <Image
   src={'122469480_2790641924483713_4012775317853396885_n.jpg'}
   width="400"
-  height="128"
+  height="400"
   alt="My image text description"/>
