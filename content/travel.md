@@ -17,6 +17,12 @@ tags: travel
 
 ## How to get to Kirkjulækjakot?
 
+<Image
+  src={'509308403_1430855091399432_8750695634690696577_n.jpg'}
+  width="128"
+  height="128"
+  alt="Kirkjulækjakot"/>
+
 <IFrame
   src="https://ja.is/webapi/kort/?lat=63.738306&lon=-20.029511&nz=16.84&layer=map"
   title="Example Site"
