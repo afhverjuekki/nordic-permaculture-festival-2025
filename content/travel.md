@@ -19,7 +19,7 @@ tags: travel
 
 <Image
   src={'509308403_1430855091399432_8750695634690696577_n.jpg'}
-  width="128"
+  width="400"
   height="400"
   alt="Kirkjulækjakot"/>
 
