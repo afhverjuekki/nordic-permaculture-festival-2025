@@ -62,3 +62,9 @@ Festival participants that arrive in a private car can also participate in the t
     <Button href="https://ja.is/kort/?nz=16.84&q=&layer=map&lat=63.738306&lon=-20.029511">Lækjartún Farm on Já.is</Button>
 </Action>
 
+
+<Image
+  src={'122469480_2790641924483713_4012775317853396885_n.jpg'}
+  width="128"
+  height="128"
+  alt="My image text description"/>
