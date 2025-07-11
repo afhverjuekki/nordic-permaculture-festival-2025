@@ -71,6 +71,6 @@ Festival participants that arrive in a private car can also participate in the t
 
 <Image
   src={'122469480_2790641924483713_4012775317853396885_n.jpg'}
-  width="128"
+  width="400"
   height="128"
   alt="My image text description"/>
