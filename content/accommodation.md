@@ -33,6 +33,14 @@ There’s shared toilets for the people staying in the indoor accommodation.  Th
 
 The price is 7.000,- ISK per bed, per night and half price 3.500,- ISK for kids 0-15 years old.  It’s possible to book beds in a shared room with other participants in the festival, or book a whole room and share it with friends or family members that will be attending the festival.
 
-
-
+<Image
+  src={'att.DbqiRz0AoarxWPaoEZ2-201QxbYKTo7mQIZWzYzIuWo.jpg'}
+  width="950"
+  height="400"
+  alt="Kirkjulækjakot"/>
+<Image
+  src={'20230208_170603.jpg'}
+  width="950"
+  height="400"
+  alt="Kirkjulækjakot"/>
 
