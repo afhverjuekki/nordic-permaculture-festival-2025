@@ -26,6 +26,12 @@ This festival is all about **connection, learning, and hands-on action!** We’r
 
 ## Where in Iceland?
 
+<Image
+  src={'509308403_1430855091399432_8750695634690696577_n.jpg'}
+  width="950"
+  height="400"
+  alt="Kirkjulækjakot"/>
+
 The site for the festival this year is Kirkjulækjakot in Fljótshlíð. 1,5 hours drive from Reykjavík, 7,5 hours drive from the Smyril line ferry from Denmark. The nearest town is Hvolsvöllur, to which there are public buses, we will also have a festival bus picking up passengers on Thursday and back to Hvolsvöllur on the Sunday after the festival.
 
 <Action>
