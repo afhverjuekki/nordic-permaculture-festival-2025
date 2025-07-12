@@ -73,10 +73,24 @@ Festival participants that arrive in a private car can also participate in the t
   width="400"
   height="400"
   alt="Lækjartún"/>
-  
 <Image
+  src={'495274162_1248244657310495_5366647998751426736_n.jpg'}
+  width="400"
+  height="400"
+  alt="Lækjartún"/>
+<Image
+  src={'Rh6YxX3g-1024x683.jpeg'}
+  width="400"
+  height="400"
+  alt="Lækjartún"/>
+  <Image
+  src={'498177987_1262641652537462_8762405496035642198_n.jpg'}
+  width="400"
+  height="400"
+  alt="Lækjartún"/>
+  <Image
   src={'481020081_4003212209893339_9111826307939688288_n.jpg'}
   width="400"
   height="400"
   alt="Lækjartún"/>
-  
+
