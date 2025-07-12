@@ -24,6 +24,11 @@ When booking your tickets to the Nordic Permaculture Festival, you will be invit
 Cozy camping area close to the main activities in the Festival.  There’ll be areas for tents and areas for campervans and campers.  Access to toilets and sinks.  
 The price is moderate, 1700 ISK for each grownup in the camping area, free for kids 0-15 years old.
 
+<Image
+  src={'476835568_952289650344334_2916152424335849238_n.jpg'}
+  width="950"
+  height="400"
+  alt="Kirkjulækjakot"/>
 
 ## Indoor accomodation
 
