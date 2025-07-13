@@ -125,8 +125,37 @@
 
   .copy img {
     display: block;
-    max-width: 100%;
+    /* max-width: 100%; */
     height: auto;
+  }
+
+  .copy .image-row img {
+    flex: 1;
+    min-width: 0;
+    height: 200px;
+    object-fit: cover;
+  }
+
+  .image-row {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    flex-wrap: nowrap;
+    overflow: hidden;
+    width: 100%;
+    align-items: flex-start;
+  }
+
+  .image-row figure {
+    margin: 0;
+    width: 100%;
+  }
+  
+  .image-row figcaption {
+    margin-top: 0.5rem;
+    font-style: italic;
+    color: #666;
+    text-align: center;
   }
 
   .copy figure a {
@@ -136,6 +165,7 @@
   .copy figcaption {
     margin-top: 0.5rem;
     font-size: 1rem;
+    font-style: italic;
     text-align: center;
   }
 }

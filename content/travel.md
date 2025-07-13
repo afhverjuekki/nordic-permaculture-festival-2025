@@ -12,16 +12,11 @@ tags: travel
     import Action from '$lib/Action.svelte'
     import Button from '$lib/Button.svelte'
     import Image from  '$lib/Image.svelte'
+    import ImageRow from  '$lib/ImageRow.svelte'
     import IFrame from '$lib/IFrame.svelte'
 </script>
 
 ## How to get to Kirkjulækjakot?
-
-<Image
-  src={'509308403_1430855091399432_8750695634690696577_n.jpg'}
-  width="950"
-  height="400"
-  alt="Kirkjulækjakot"/>
 
 <IFrame
   src="https://ja.is/webapi/kort/?lat=63.738306&lon=-20.029511&nz=16.84&layer=map"
@@ -68,29 +63,12 @@ Festival participants that arrive in a private car can also participate in the t
     <Button href="https://ja.is/kort/?nz=16.84&q=&layer=map&lat=63.738306&lon=-20.029511">Lækjartún Farm on Já.is</Button>
 </Action>
 
-<Image
-  src={'122469480_2790641924483713_4012775317853396885_n.jpg'}
-  width="400"
-  height="400"
-  alt="Lækjartún"/>
-<Image
-  src={'495274162_1248244657310495_5366647998751426736_n.jpg'}
-  width="400"
-  height="400"
-  alt="Lækjartún"/>
-<Image
-  src={'Rh6YxX3g-1024x683.jpeg'}
-  width="400"
-  height="400"
-  alt="Lækjartún"/>
-  <Image
-  src={'498177987_1262641652537462_8762405496035642198_n.jpg'}
-  width="400"
-  height="400"
-  alt="Lækjartún"/>
-  <Image
-  src={'481020081_4003212209893339_9111826307939688288_n.jpg'}
-  width="400"
-  height="400"
-  alt="Lækjartún"/>
+<ImageRow 
+  images={[
+    { src: 'cows_1.jpg', alt: 'Cows grazing' },
+    { src: 'cows_2.jpg', alt: 'More cows' },
+    { src: 'sheep_with_yarn.jpg', alt: 'Sheep with wool' }
+  ]}
+  caption="Scenes from the farm"
+/>
 

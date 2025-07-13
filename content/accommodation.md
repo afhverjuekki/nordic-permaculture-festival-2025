@@ -25,7 +25,7 @@ Cozy camping area close to the main activities in the Festival.  There’ll be a
 The price is moderate, 1700 ISK for each grownup in the camping area, free for kids 0-15 years old.
 
 <Image
-  src={'476835568_952289650344334_2916152424335849238_n.jpg'}
+  src={'farm_aerial_1.jpg'}
   width="950"
   height="400"
   alt="Kirkjulækjakot"/>
@@ -39,12 +39,12 @@ There’s shared toilets for the people staying in the indoor accommodation.  Th
 The price is 7.000,- ISK per bed, per night and half price 3.500,- ISK for kids 0-15 years old.  It’s possible to book beds in a shared room with other participants in the festival, or book a whole room and share it with friends or family members that will be attending the festival.
 
 <Image
-  src={'att.DbqiRz0AoarxWPaoEZ2-201QxbYKTo7mQIZWzYzIuWo.jpg'}
+  src={'beds_1.jpg'}
   width="950"
   height="400"
   alt="Kirkjulækjakot"/>
 <Image
-  src={'20230208_170603.jpg'}
+  src={'beds_2.jpg'}
   width="950"
   height="400"
   alt="Kirkjulækjakot"/>

@@ -27,7 +27,7 @@ This festival is all about **connection, learning, and hands-on action!** We’r
 ## Where in Iceland?
 
 <Image
-  src={'509308403_1430855091399432_8750695634690696577_n.jpg'}
+  src={'farm_aerial_1.jpg'}
   width="950"
   height="400"
   alt="Kirkjulækjakot"/>
