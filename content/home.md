@@ -24,6 +24,27 @@ This festival is all about **connection, learning, and hands-on action!** We’r
     <Button href={'/tickets'}>Buy Tickets</Button>
 </Action>
 
+
+## Festival program
+
+The festival program is full of amazing workshops!  Thanks to all these knowledgeble folks giving their work to contribute to making a great experience for us all we can all learn so much and still keep the ticket prices at a bare minimum.  The ticket price is almost only covering the 9 meals included during the festival.  All planning, cooking and teaching happening before and during the festival is based on gift economy.
+
+<!-- With caption -->
+<ImageRow 
+  images={['program1.jpg', 'program2.jpg', 'program3.jpg', 'program4.jpg']} 
+  caption="Nordic Permaculture Festival program 2025"
+/>
+
+## Kids program
+
+We have put a lot of effort into making a rich and exciting program for kids and teenagers too!  They'll have propper workshops where they can learn, play and get to know each other.  Often there are more than one kid's workshop running at the same time, aimed for different age groups.  Some workshops are specifically designed for older kids or teenagers, they are outlined with orange in the kids program below.
+
+<!-- With caption -->
+<ImageRow 
+  images={['kidsprogram1.jpg', 'kidsprogram2.jpg', 'kidsprogram3.jpg', 'kidsprogram4.jpg']} 
+  caption="Nordic Permaculture Kids program 2025"
+/>
+
 ## Where in Iceland?
 
 <Image
@@ -46,19 +67,13 @@ In Kirkjulækjakot there’s a complete camping site for those that bring their 
 
 ## Sign up now and get excited!
 
-The lineup of workshop leaders is shaping up, and we can’t wait to share what’s in store! Expect a **rich and diverse program** packed with practical, hands-on workshops, insightful discussions, and **exciting deep dives into permaculture wisdom**.
-
-There will be a variety of workshops to choose from, and a kids program as well.  Whether you're curious about **soil health, ecosystem restoration, mending, communication, mindful nature connection, or community resilience**, there will be something for everyone\!
-
-This is an opportunity to connect with like minded people, learn new skills and have a lot of fun!
-
-If you would like to share your knowledge and hold a workshop at the festival, please get in touch with us by filling out this form: 
+The last chance to buy tickets is 1st August, make sure to book your tickets before then - since we have to have a bit of time to plan propperly for cooking delicious meals for you all.
 
 <Action>
-    <Button href={'/apply'}>Apply to Host a Workshop</Button>
+    <Button href={'/tickets'}>Buy Tickets</Button>
 </Action>
 
-There will be regular updates to this website, as the program enfolds. If you have any questions please get in touch:
+If you have any questions please get in touch:
 
 <Action>
     <Button href={'/contact'}>Contact Us</Button>
