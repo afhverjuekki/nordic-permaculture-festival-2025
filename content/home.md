@@ -21,7 +21,7 @@ Get ready for an unforgettable gathering of nature lovers, changemakers, and per
 
 This festival is all about **connection, learning, and hands-on action!** We’re here to grow networks, swap knowledge, and share inspiring ways to **regenerate our planet’s resources**. Together, we’ll co-create a space for a more abundant and resilient future—for both people and the Earth. 
 
-The Nordic Permaculture Festival is open for participation from people in all ages.  To contribute to parents sense of safety for their children during this festival we kindly ask participants to not use alcohol or drugs in over this time that we'll spend together. 
+The Nordic Permaculture Festival is a gathering for people of all ages. To create a safe and welcoming space for families, we kindly invite everyone to join us in keeping the festival alcohol- and drug-free. Let’s make this a place where parents can relax, children can thrive, and our community can truly connect.
 
 <Action>
     <Button href={'/tickets'}>Buy Tickets</Button>
@@ -31,7 +31,15 @@ The Nordic Permaculture Festival is open for participation from people in all ag
 
 The festival program is full of amazing workshops!  Thanks to all these knowledgeble folks giving their work to contribute to making a great experience for us all we can all learn so much and still keep the ticket prices at a bare minimum.  The ticket price is almost only covering the 9 meals included during the festival.  All planning, cooking and teaching happening before and during the festival is based on gift economy.
 
-<ImageRow images={[ { src: 'program1.jpg', alt: 'Thursday' }, { src: 'program2.jpg', alt: 'Friday' }, { src: 'program3.jpg', alt: 'Saturday' }, { src: 'program4.jpg', alt: 'Sunday' } ]} caption="Nordic Permaculture Festival program" />
+<ImageRow 
+  images={[
+    { src: 'program1.jpg', alt: 'Thursday' },
+    { src: 'program2.jpg', alt: 'Friday' },
+    { src: 'program3.jpg', alt: 'Saturday' },
+    { src: 'program4.jpg', alt: 'Sunday' }
+  ]}
+  caption="Nordic Permaculture Festival program"
+/>
 
 
 ## Kids program
