@@ -21,6 +21,8 @@ Get ready for an unforgettable gathering of nature lovers, changemakers, and per
 
 This festival is all about **connection, learning, and hands-on action!** We’re here to grow networks, swap knowledge, and share inspiring ways to **regenerate our planet’s resources**. Together, we’ll co-create a space for a more abundant and resilient future—for both people and the Earth. 
 
+The Nordic Permaculture Festival is open for participation from people in all ages.  To contribute to parents sense of safety for their children during this festival we kindly ask participants to not use alcohol or drugs in over this time that we'll spend together. 
+
 <Action>
     <Button href={'/tickets'}>Buy Tickets</Button>
 </Action>
