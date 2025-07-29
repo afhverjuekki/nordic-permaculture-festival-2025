@@ -46,7 +46,15 @@ The festival program is full of amazing workshops!  Thanks to all these knowledg
 
 We have put a lot of effort into making a rich and exciting program for kids and teenagers too!  They'll have propper workshops where they can learn, play and get to know each other.  Often there are more than one kid's workshop running at the same time, aimed for different age groups.  Some workshops are specifically designed for older kids or teenagers, they are outlined with orange in the kids program below.
 
-<ImageRow images={[ { src: 'kidsprogram1.jpg', alt: 'Kidsprogram Thursday' }, { src: 'kidsprogram2.jpg', alt: 'Kidsprogram Friday' }, { src: 'kidsprogram3.jpg', alt: 'Kidsprogram Saturday' }, { src: 'kidsprogram4.jpg', alt: 'Kids program Sunday' } ]} caption="Kids program" />
+<ImageRow 
+  images={[
+    { src: 'kidsprogram1.jpg', alt: 'Thursday' },
+    { src: 'kidsprogram2.jpg', alt: 'Friday' },
+    { src: 'kidsprogram3.jpg', alt: 'Saturday' },
+    { src: 'kidsprogram4.jpg', alt: 'Sunday' }
+  ]}
+  caption="Nordic Permaculture Festival KIDS program"
+/>
 
 ## Where in Iceland?
 
