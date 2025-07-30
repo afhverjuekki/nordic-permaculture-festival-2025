@@ -14,11 +14,11 @@ let {
 } = $props();
 let order = [
   'Nordic Permaculture Festival 2025',
+  'Program',
   'Tickets',
   'Apply',
   'Travel',
-  'Accommodation',
-  'Contact',
+  'Accommodation'
 ];
 
 let orderedPosts = order
