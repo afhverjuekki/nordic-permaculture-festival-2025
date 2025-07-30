@@ -27,34 +27,15 @@ The Nordic Permaculture Festival is a gathering for people of all ages. To creat
     <Button href={'/tickets'}>Buy Tickets</Button>
 </Action>
 
-## Festival program
+## Program
 
 The festival program is full of amazing workshops!  Thanks to all these knowledgeble folks giving their work to contribute to making a great experience for us all we can all learn so much and still keep the ticket prices at a bare minimum.  The ticket price is almost only covering the 9 meals included during the festival.  All planning, cooking and teaching happening before and during the festival is based on gift economy.
 
-<ImageRow 
-  images={[
-    { src: 'program1.jpg', alt: 'Thursday' },
-    { src: 'program2.jpg', alt: 'Friday' },
-    { src: 'program3.jpg', alt: 'Saturday' },
-    { src: 'program4.jpg', alt: 'Sunday' }
-  ]}
-  caption="Nordic Permaculture Festival program"
-/>
-
-
-## Kids program
-
 We have put a lot of effort into making a rich and exciting program for kids and teenagers too!  They'll have propper workshops where they can learn, play and get to know each other.  Often there are more than one kid's workshop running at the same time, aimed for different age groups.  Some workshops are specifically designed for older kids or teenagers, they are outlined with orange in the kids program below.
 
-<ImageRow 
-  images={[
-    { src: 'kidsprogram1.jpg', alt: 'Thursday' },
-    { src: 'kidsprogram2.jpg', alt: 'Friday' },
-    { src: 'kidsprogram3.jpg', alt: 'Saturday' },
-    { src: 'kidsprogram4.jpg', alt: 'Sunday' }
-  ]}
-  caption="Nordic Permaculture Festival KIDS program"
-/>
+<Action>
+    <Button href={'/program'}>View the Program</Button>
+</Action>
 
 ## Where in Iceland?
 
