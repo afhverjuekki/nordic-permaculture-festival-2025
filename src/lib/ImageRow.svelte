@@ -5,11 +5,12 @@ let {
   images = [],
   alt = '',
   caption = undefined,
+  width = undefined,
+  height = undefined,
 } = $props();
 
 // Limit to maximum of 4 images
 let displayImages = $derived(images.slice(0, 4));
-console.log(displayImages);
 </script>
 
 <figure>
@@ -19,6 +20,8 @@ console.log(displayImages);
         src={`${base}/img/${image.src || image}`} 
         srcset={image.srcset} 
         alt={image.alt || alt || `Image ${index + 1}`} 
+        width={width}
+        height={height}
       />
     {/each}
   </div>
