@@ -1,16 +1,36 @@
 <script lang="ts">
-export let src: string;
-export let title: string = 'Embedded content';
-export let width: string = '100%';
-export let height: string = '400px';
-export let style: string = '';
-export let allow: string = '';
-export let allowfullscreen: boolean = false;
-export let loading: 'eager' | 'lazy' = 'lazy';
+import { base } from '$app/paths';
+
+const { 
+  src, 
+  title = 'Embedded content', 
+  width = '100%', 
+  height = '400px', 
+  style = '', 
+  allow = '', 
+  allowfullscreen = false, 
+  loading = 'lazy' 
+} = $props<{
+  src: string;
+  title?: string;
+  width?: string;
+  height?: string;
+  style?: string;
+  allow?: string;
+  allowfullscreen?: boolean;
+  loading?: 'eager' | 'lazy';
+}>();
+
+// Add base to src if it's a local URL
+let srcWithBase = $derived(
+  src.startsWith('http://') || src.startsWith('https://') || src.startsWith('//') 
+    ? src 
+    : `${base}${src.startsWith('/') ? src : `/${src}`}`
+);
 </script>
 
 <iframe
-  {src}
+  src={srcWithBase}
   {title}
   {width}
   {height}
