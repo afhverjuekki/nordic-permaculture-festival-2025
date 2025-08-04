@@ -9,21 +9,23 @@ import Button from '$lib/Button.svelte';
 
 let {
   limit = 10,
-  posts = /** @type {Post[]} */ (page.data.posts.slice(0, limit || Infinity)),
+  posts = /** @type {Post[]} */ (page.data.posts),
   header,
 } = $props();
-let order = [
-  'Nordic Permaculture Festival 2025',
-  'Program',
-  'Tickets',
-  'Apply',
-  'Travel',
-  'Accommodation'
+let order_ids = [
+  'home',
+  'program',
+  'tickets',
+  'apply',
+  'travel',
+  'accommodation'
 ];
 
-let orderedPosts = order
-  .map((title) => posts.find(/** @param {Post} item */ (item) => item.title === title))
+let orderedPosts = order_ids
+  .map((id) => posts.find(/** @param {Post} item */ (item) => item.id === id))
   .filter(Boolean);
+// console.log('posts',posts);
+// console.log('orderedPosts',orderedPosts); 
 </script>
 
 <section class="py-8">
