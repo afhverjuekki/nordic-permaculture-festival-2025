@@ -17,8 +17,8 @@ Social Permaculture for educators
 
 Explore how people care can be deeply embedded into the experiences we create for our participants. Learn how we can make this explicit for them so that they are able to take these practices out into the lives and relationships. Come and share your experiences so that we can harvest collective wisdom and best practices.
 
-<!-- <Image 
+<Image 
   src='program/social-community/14-cultural-emergence.png'
   caption='Social Permaculture for educators'
   alt='Social Permaculture for educators'
-  width='50%'/>  -->
+  width='50%'/> 

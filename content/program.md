@@ -41,14 +41,14 @@ Here’s a map showing all the different locations (which are named after icelan
 |------|-------|-----------|----------|
 | 8:00 - 8:30 | Morning Qigong | Grownups, teens & older kids | ![Hvalur](img/kort/dyr_600px/hvalur.png) Hvalur |
 | 8:30 - 9:30 | Breakfast | | ![Belja & Kálfur](img/kort/dyr_600px/beljaogkalfur.png) Belja & Kálfur |
-| 9:30 - 11:00 | [What is permaculture?](/what-is-permaculture) | Teens & grownups | ![Hreindýr](img/kort/dyr_600px/hreindyr.png) Hreindýr |
+| 9:30 - 11:00 | [Intro to Permaculture](/intro-to-permaculture) | Teens & grownups | ![Hreindýr](img/kort/dyr_600px/hreindyr.png) Hreindýr |
 | 9:30 - 11:00 | [Water design](/water-design) | Grownups | ![Tófa](img/kort/dyr_600px/tofa.png) Tófa |
 | 9:30 - 11:00 | [Permaculture schoolgardens](/permaculture-schoolgardens) | Grownups | ![Mús](img/kort/dyr_600px/mus.png) Mús |
 | 9:30 - 11:00 | [Foraging](/foraging) | All ages | ![Kálfur](img/kort/dyr_600px/kalfur.png) Kálfur |
 | 11:00 - 11:30 | Break | | |
 | 11:30 - 13:00 | [Cultural Emergence](/cultural-emergence) | Grownups | ![Hreindýr](img/kort/dyr_600px/hreindyr.png) Hreindýr |
 | 11:30 - 13:00 | [Permaculture and AI](/permaculture-and-ai) | Grownups | ![Mús](img/kort/dyr_600px/mus.png) Mús |
-| 11:30 - 13:00 | [Belonging to nature](/belonging-to-nature) | All ages | ![Kálfur](img/kort/dyr_600px/kalfur.png) Kálfur |
+| 11:30 - 13:00 | [Group Games](/group-games) | All ages | ![Kálfur](img/kort/dyr_600px/kalfur.png) Kálfur |
 | 13:00 - 14:00 | Lunch | | ![Belja & Kálfur](img/kort/dyr_600px/beljaogkalfur.png) Belja & Kálfur |
 | 14:00 - 15:00 | Break | | |
 | 15:00 - 16:30 | [Stone masonry](/stone-masonry) | Grownups & teens | ![Hellir](img/kort/dyr_600px/hellir.png) Hellir |
@@ -110,7 +110,7 @@ Here’s a map showing all the different locations (which are named after icelan
 | 9:30 - 11:00 | [Men's circle](/mens-circle) | Grownups | ![Selur](img/kort/dyr_600px/selur.png) Selur (![Hvalur](img/kort/dyr_600px/hvalur.png) Hvalur if raining) |
 | 9:30 - 11:00 | [Minimalism in Permaculture](/minimalism-in-permaculture) | Grownups | ![Hreindýr](img/kort/dyr_600px/hreindyr.png) Hreindýr |
 | 9:30 - 11:00 | [Games for learning Regenerative Agriculture](/games-for-learning-regenerative-agriculture) | Grownups & teens | ![Hvalur](img/kort/dyr_600px/hvalur.png) Hvalur |
-| 9:30 - 11:00 | Music & crafts | Young kids & older kids | ![Kálfur](img/kort/dyr_600px/kalfur.png) Kálfur |
+| 9:30 - 11:00 | [Children Draw Health](/children-draw-health) | Young kids & older kids | ![Kálfur](img/kort/dyr_600px/kalfur.png) Kálfur |
 | 11:00 - 12:00 | [Permaculture Market](/permaculture-market) | All ages | ![Skata](img/kort/dyr_600px/skata.png) Skata |
 | 12:00 - 13:00 | Closing ceremony | All ages | ![Hvalur](img/kort/dyr_600px/hvalur.png) Hvalur |
 | 13:00 - 14:00 | Lunch | | ![Belja & Kálfur](img/kort/dyr_600px/beljaogkalfur.png) Belja & Kálfur |

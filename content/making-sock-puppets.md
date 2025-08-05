@@ -17,8 +17,8 @@ Kristín, Vilborg og Steinunn - "Sock puppets"
 
 Let's create all kinds of creatures and figures out of mismatching socks, buttons and other materials! Then we'll have the chance to play and make some puppet theater together.
 
-<Image 
+<!-- <Image 
   src='program/childrens-workshops/27-improvisation.png'
   caption='Sock puppets'
   alt='Sock puppets'
-  width='50%'/> 
+  width='50%'/>  -->
