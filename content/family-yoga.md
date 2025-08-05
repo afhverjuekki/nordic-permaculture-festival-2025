@@ -11,7 +11,7 @@ tags: program, childrens, workshops
     import Image from  '$lib/Image.svelte'
 </script>
 
-🟣 Friday, 15:00 - 16:30
+Friday, 15:00 - 16:30
 
 Marina Ermina - "Family Yoga"
 

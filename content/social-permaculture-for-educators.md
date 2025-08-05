@@ -11,7 +11,7 @@ tags: program, social, community
     import Image from  '$lib/Image.svelte'
 </script>
 
-🟠 Saturday, 15:00 - 16:30
+Saturday, 15:00 - 16:30
 
 Social Permaculture for educators
 

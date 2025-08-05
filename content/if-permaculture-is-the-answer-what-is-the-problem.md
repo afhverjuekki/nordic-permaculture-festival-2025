@@ -11,7 +11,7 @@ tags: program, digital, philosophical
     import Image from  '$lib/Image.svelte'
 </script>
 
-🔵 Friday, 15:00 - 16:30
+Friday, 15:00 - 16:30
 
 Erkki Pöytäniemi - "If permaculture is the answer, what is the problem?"
 

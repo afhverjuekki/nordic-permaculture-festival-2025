@@ -11,7 +11,7 @@ tags: program, childrens, workshops
     import Image from  '$lib/Image.svelte'
 </script>
 
-🟣 Friday, 9:30 - 11:00
+Friday, 9:30 - 11:00
 
 Foraging workshop for children.
 

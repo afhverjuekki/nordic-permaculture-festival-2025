@@ -11,7 +11,7 @@ tags: program, practical, gardening
     import Image from  '$lib/Image.svelte'
 </script>
 
-🟡 Saturday, 9:30 - 11:00
+Saturday, 9:30 - 11:00
 
 Auður - "Hugelkultur experience in Iceland"
 

@@ -11,7 +11,7 @@ tags: program, digital, philosophical
     import Image from  '$lib/Image.svelte'
 </script>
 
-🔵 Friday, 9:30 - 11:00
+Friday, 9:30 - 11:00
 
 Introduction to permaculture principles and ethics.
 

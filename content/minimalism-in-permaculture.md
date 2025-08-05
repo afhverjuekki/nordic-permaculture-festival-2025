@@ -11,7 +11,7 @@ tags: program, digital, philosophical
     import Image from  '$lib/Image.svelte'
 </script>
 
-🔵 Sunday, 9:30 - 11:00
+Sunday, 9:30 - 11:00
 
 Anita Rübberdt - "Minimalism and Permaculture: Designing Abundance with Less Stuff"
 

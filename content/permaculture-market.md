@@ -11,7 +11,7 @@ tags: program, activities
     import Image from  '$lib/Image.svelte'
 </script>
 
-🟢 Sunday, 11:00 - 12:00
+Sunday, 11:00 - 12:00
 
 Permaculture Market & Swap: Sharing Goods, Skills, and Ideas
 

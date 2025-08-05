@@ -11,7 +11,7 @@ tags: program, practical, gardening
     import Image from  '$lib/Image.svelte'
 </script>
 
-🟡 Friday, 9:30 - 11:00
+Friday, 9:30 - 11:00
 
 Roland Stanbridge - "Food Forests & Schoolgardening Worldwide".
 

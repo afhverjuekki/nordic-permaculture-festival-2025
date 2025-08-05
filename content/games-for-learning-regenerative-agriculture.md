@@ -11,6 +11,6 @@ tags: program, childrens, workshops
     import Image from  '$lib/Image.svelte'
 </script>
 
-🟣 Sunday, 9:30 - 11:00
+Sunday, 9:30 - 11:00
 
 Games for learning regenerative agriculture workshop for children. 

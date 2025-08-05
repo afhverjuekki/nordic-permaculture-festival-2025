@@ -11,7 +11,7 @@ tags: program, social, community
     import Image from  '$lib/Image.svelte'
 </script>
 
-🟠 Friday, 15:00 - 16:30
+Friday, 15:00 - 16:30
 
 Ruth Marie Kondrup - "Sociocracy for Regenerative Communities: Sharing Power, Strenghtening Action".
 

@@ -11,7 +11,7 @@ tags: program, digital, philosophical
     import Image from  '$lib/Image.svelte'
 </script>
 
-🔵 Friday, 11:30 - 13:00
+Friday, 11:30 - 13:00
 
 Moli G. Ottesen - "Permaculture AI".
 

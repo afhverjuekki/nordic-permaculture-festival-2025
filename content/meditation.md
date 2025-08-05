@@ -11,7 +11,7 @@ tags: program, activities
     import Image from  '$lib/Image.svelte'
 </script>
 
-🟢 Saturday, 11:30 - 13:00
+Saturday, 11:30 - 13:00
 
 Diane Nunberg - "Mindfulness Meditation"
 

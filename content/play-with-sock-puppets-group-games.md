@@ -11,7 +11,7 @@ tags: program, childrens, workshops
     import Image from  '$lib/Image.svelte'
 </script>
 
-🟣 Saturday, 17:00 - 18:30
+Saturday, 17:00 - 18:30
 
 Play with sock puppets & group games
 

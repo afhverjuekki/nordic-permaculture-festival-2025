@@ -11,7 +11,7 @@ tags: program, practical, gardening
     import Image from  '$lib/Image.svelte'
 </script>
 
-🟡 Saturday, 11:30 - 13:00
+Saturday, 11:30 - 13:00
 
 Caring for bees and deep ecology workshop.
 

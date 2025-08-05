@@ -10,7 +10,7 @@ description: Belonging to Nature
     import Image from  '$lib/Image.svelte'
 </script>
 
-🟠 Friday, 11:30 - 13:00
+Friday, 11:30 - 13:00
 
 Janis Garavaldi - "Belonging to Nature".
 

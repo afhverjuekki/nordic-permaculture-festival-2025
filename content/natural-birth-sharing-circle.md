@@ -11,7 +11,7 @@ tags: program, social, community
     import Image from  '$lib/Image.svelte'
 </script>
 
-🟠 Friday, 17:00 - 18:30
+Friday, 17:00 - 18:30
 
 Hildur Dagbjört - "Natural Birth sharing circle"
 

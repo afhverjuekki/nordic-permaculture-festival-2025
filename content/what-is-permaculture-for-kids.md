@@ -11,7 +11,7 @@ tags: info
     import Image from  '$lib/Image.svelte'
 </script>
 
-🟣 Friday, 17:00 - 18:30
+Friday, 17:00 - 18:30
 
 What is permaculture workshop specifically designed for older kids and teenagers.
 

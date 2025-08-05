@@ -11,7 +11,7 @@ tags: program, childrens, workshops
     import Image from  '$lib/Image.svelte'
 </script>
 
-🟣 Friday, 17:00 - 18:30
+Friday, 17:00 - 18:30
 
 Eldrid Skudal - "Painting stones"
 

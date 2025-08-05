@@ -11,7 +11,7 @@ tags: program, social, community, kids
     import Image from  '$lib/Image.svelte'
 </script>
 
-🟠 Thursday, 16:30 - 19:00
+Thursday, 16:30 - 19:00
 
 Join in playing a fresh board game that has recently been released! Here you assist a town in Transitioning towards Permaculture.  It’s a co-operation game where participants work together in deciding on which solutions to implement to solve the day-to-day and out of the ordinary crisis that can happen in any town.  This game will leave you with hope and plenty of ideas for how communities can evolve, change their environment and support their inhabitants.  Permaculture principles and ethics are even woven into the game 😉.
 

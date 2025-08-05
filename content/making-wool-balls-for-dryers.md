@@ -11,7 +11,7 @@ tags: program, practical, gardening
     import Image from  '$lib/Image.svelte'
 </script>
 
-🟡 Sunday, 9:30 - 11:00
+Sunday, 9:30 - 11:00
 
 Hulda Brynjólfsdóttir - "Making wool dryer balls"
 

@@ -11,7 +11,7 @@ tags: program, social, community
     import Image from  '$lib/Image.svelte'
 </script>
 
-🟠 Sunday, 9:30 - 11:00
+Sunday, 9:30 - 11:00
 
 Eirik Lillebøe Wiken - "Men's circle"
 

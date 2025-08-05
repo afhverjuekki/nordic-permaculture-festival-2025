@@ -11,7 +11,7 @@ tags: program, childrens, workshops
     import Image from  '$lib/Image.svelte'
 </script>
 
-🟣 Saturday, 11:30 - 13:00
+Saturday, 11:30 - 13:00
 
 Aníta og Elizabeth - "Permakidz"
 

@@ -11,7 +11,7 @@ tags: program, childrens, workshops
     import Image from  '$lib/Image.svelte'
 </script>
 
-🟣 Saturday, 15:00 - 16:30
+Saturday, 15:00 - 16:30
 
 Kristín, Vilborg og Steinunn - "Sock puppets"
 

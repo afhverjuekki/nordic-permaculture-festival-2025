@@ -11,7 +11,7 @@ tags: program, practical, gardening
     import Image from  '$lib/Image.svelte'
 </script>
 
-🟡 Saturday, 15:00 - 16:30
+Saturday, 15:00 - 16:30
 
 Dagný Guðmundsdóttir - "Use and preserve veggies"
 

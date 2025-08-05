@@ -11,7 +11,7 @@ tags: program, activities
     import Image from  '$lib/Image.svelte'
 </script>
 
-🟢 Saturday, 20:00 -
+Saturday, 20:00 -
 
 Marina Ermina - "Sound relaxation and nature meditation"
 
