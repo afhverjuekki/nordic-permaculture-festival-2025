@@ -11,7 +11,9 @@ tags: program, social, community
     import Image from  '$lib/Image.svelte'
 </script>
 
-Friday, 17:00 - 18:30
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Friday | 17:00 - 18:30 | Grownups & teens | ![Selur](img/kort/dyr_600px/selur.png) Selur (![Hvalur](img/kort/dyr_600px/hvalur.png) Hvalur if raining) |
 
 Hildur Dagbjört - "Natural Birth sharing circle"
 

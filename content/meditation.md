@@ -11,7 +11,9 @@ tags: program, activities
     import Image from  '$lib/Image.svelte'
 </script>
 
-Saturday, 11:30 - 13:00
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Saturday | 11:30 - 13:00 | Grownups & teens | ![Hvalur](img/kort/dyr_600px/hvalur.png) Hvalur |
 
 Diane Nunberg - "Mindfulness Meditation"
 

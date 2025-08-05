@@ -11,7 +11,9 @@ tags: program, social, community
     import Image from  '$lib/Image.svelte'
 </script>
 
-Saturday, 15:00 - 16:30
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Saturday | 15:00 - 16:30 | Grownups (educators) | ![Mús](img/kort/dyr_600px/mus.png) Mús |
 
 Social Permaculture for educators
 

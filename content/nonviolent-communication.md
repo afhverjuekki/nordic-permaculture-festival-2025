@@ -11,7 +11,9 @@ tags: program, social, community
     import Image from  '$lib/Image.svelte'
 </script>
 
-Saturday, 17:00 - 18:30
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Saturday | 17:00 - 18:30 | Grownups & teens | ![Hreindýr](img/kort/dyr_600px/hreindyr.png) Hreindýr |
 
 Nonviolent Communication
 

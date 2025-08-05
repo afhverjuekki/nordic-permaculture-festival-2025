@@ -11,7 +11,9 @@ tags: program, digital, philosophical
     import Image from  '$lib/Image.svelte'
 </script>
 
-Friday, 11:30 - 13:00
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Friday | 11:30 - 13:00 | Grownups | ![Mús](img/kort/dyr_600px/mus.png) Mús |
 
 Moli G. Ottesen - "Permaculture AI".
 

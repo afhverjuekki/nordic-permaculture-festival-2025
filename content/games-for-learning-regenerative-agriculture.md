@@ -11,6 +11,8 @@ tags: program, childrens, workshops
     import Image from  '$lib/Image.svelte'
 </script>
 
-Sunday, 9:30 - 11:00
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Sunday | 9:30 - 11:00 | Grownups & teens | ![Hvalur](img/kort/dyr_600px/hvalur.png) Hvalur |
 
 Games for learning regenerative agriculture workshop for children. 

@@ -11,7 +11,9 @@ tags: program, practical, gardening
     import Image from  '$lib/Image.svelte'
 </script>
 
-Friday, 9:30 - 11:00
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Friday | 9:30 - 11:00 | Grownups | ![Mús](img/kort/dyr_600px/mus.png) Mús |
 
 Roland Stanbridge - "Food Forests & Schoolgardening Worldwide".
 

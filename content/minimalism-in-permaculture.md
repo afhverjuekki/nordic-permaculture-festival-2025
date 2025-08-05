@@ -11,7 +11,9 @@ tags: program, digital, philosophical
     import Image from  '$lib/Image.svelte'
 </script>
 
-Sunday, 9:30 - 11:00
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Sunday | 9:30 - 11:00 | Grownups | ![Hreindýr](img/kort/dyr_600px/hreindyr.png) Hreindýr |
 
 Anita Rübberdt - "Minimalism and Permaculture: Designing Abundance with Less Stuff"
 

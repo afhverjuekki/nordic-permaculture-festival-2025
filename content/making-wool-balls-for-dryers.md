@@ -11,7 +11,9 @@ tags: program, practical, gardening
     import Image from  '$lib/Image.svelte'
 </script>
 
-Sunday, 9:30 - 11:00
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Sunday | 9:30 - 11:00 | Grownups & teens | ![Belja](img/kort/dyr_600px/belja.png) Belja |
 
 Hulda Brynjólfsdóttir - "Making wool dryer balls"
 

@@ -11,7 +11,9 @@ tags: program, childrens, workshops
     import Image from  '$lib/Image.svelte'
 </script>
 
-Saturday, 17:00 - 18:30
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Saturday | 17:00 - 18:30 | Grownups, teens & older kids | ![Hvalur](img/kort/dyr_600px/hvalur.png) Hvalur |
 
 Kristín Eik - "Improvisation"
 

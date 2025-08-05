@@ -11,7 +11,9 @@ tags: program, social, community
     import Image from  '$lib/Image.svelte'
 </script>
 
-Friday, 15:00 - 16:30
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Friday | 15:00 - 16:30 | Grownups | ![Mús](img/kort/dyr_600px/mus.png) Mús |
 
 Ruth Marie Kondrup - "Sociocracy for Regenerative Communities: Sharing Power, Strenghtening Action".
 

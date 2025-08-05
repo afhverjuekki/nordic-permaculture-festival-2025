@@ -11,7 +11,9 @@ tags: program, childrens, workshops
     import Image from  '$lib/Image.svelte'
 </script>
 
-Saturday, 11:30 - 13:00
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Saturday | 11:30 - 13:00 | All ages | ![Kálfur](img/kort/dyr_600px/kalfur.png) Kálfur |
 
 Aníta og Elizabeth - "Permakidz"
 

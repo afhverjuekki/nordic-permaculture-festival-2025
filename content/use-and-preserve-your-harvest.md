@@ -11,7 +11,9 @@ tags: program, practical, gardening
     import Image from  '$lib/Image.svelte'
 </script>
 
-Saturday, 15:00 - 16:30
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Saturday | 15:00 - 16:30 | Grownups | ![Hreindýr](img/kort/dyr_600px/hreindyr.png) Hreindýr |
 
 Dagný Guðmundsdóttir - "Use and preserve veggies"
 

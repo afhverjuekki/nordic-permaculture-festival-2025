@@ -11,7 +11,9 @@ tags: program, practical, gardening
     import Image from  '$lib/Image.svelte'
 </script>
 
-Friday, 17:00 - 18:30
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Friday | 17:00 - 18:30 | Grownups | ![Hreindýr](img/kort/dyr_600px/hreindyr.png) Hreindýr |
 
 Eirik Lillebøe Wiken - "Original Forest Garden".
 

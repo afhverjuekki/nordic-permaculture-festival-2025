@@ -11,7 +11,9 @@ tags: program, activities
     import Image from  '$lib/Image.svelte'
 </script>
 
-Saturday, 11:30 - 13:00
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Saturday | 11:30 - 13:00 | Grownups, teens & older kids | ![Kisa](img/kort/dyr_600px/kisa.png) Kisa |
 
 Hildur Dagbjört - "Make a permaculture song"
 

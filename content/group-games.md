@@ -10,7 +10,9 @@ description: Group games
     import Image from  '$lib/Image.svelte'
 </script>
 
-Friday, 11:30 - 13:00
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Friday | 11:30 - 13:00 | All ages | ![Kálfur](img/kort/dyr_600px/kalfur.png) Kálfur |
 
 Sigríður and Jói
 

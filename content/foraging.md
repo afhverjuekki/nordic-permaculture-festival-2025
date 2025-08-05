@@ -11,7 +11,9 @@ tags: program, childrens, workshops
     import Image from  '$lib/Image.svelte'
 </script>
 
-Friday, 9:30 - 11:00
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Friday | 9:30 - 11:00 | All ages | ![Kálfur](img/kort/dyr_600px/kalfur.png) Kálfur |
 
 Foraging workshop for children.
 

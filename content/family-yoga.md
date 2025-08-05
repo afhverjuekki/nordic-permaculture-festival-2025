@@ -11,7 +11,9 @@ tags: program, childrens, workshops
     import Image from  '$lib/Image.svelte'
 </script>
 
-Friday, 15:00 - 16:30
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Friday | 15:00 - 16:30 | All ages | ![Kálfur](img/kort/dyr_600px/kalfur.png) Kálfur |
 
 Marina Ermina - "Family Yoga"
 

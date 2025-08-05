@@ -11,7 +11,9 @@ tags: program, social, community
     import Image from  '$lib/Image.svelte'
 </script>
 
-Friday, 11:30 - 13:00
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Friday | 11:30 - 13:00 | Grownups | ![Hreindýr](img/kort/dyr_600px/hreindyr.png) Hreindýr |
 
 Discover how the Cultural Emergence toolkit has evolved from people & permaculture to become it's own global movement of change makers. Explore how it can support your well-being, effectiveness and relationships. Find out how you can get involved and become a part of the network.
 

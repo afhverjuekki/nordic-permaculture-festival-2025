@@ -11,7 +11,9 @@ tags: program, practical, gardening
     import Image from  '$lib/Image.svelte'
 </script>
 
-Saturday, 9:30 - 11:00
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Saturday | 9:30 - 11:00 | Grownups & teens | ![Tófa](img/kort/dyr_600px/tofa.png) Tófa |
 
 Auður - "Hugelkultur experience in Iceland"
 

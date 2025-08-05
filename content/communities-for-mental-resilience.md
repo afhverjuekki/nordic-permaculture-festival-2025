@@ -11,7 +11,9 @@ tags: program, social, community
     import Image from  '$lib/Image.svelte'
 </script>
 
-Saturday, 17:00 - 18:30
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Saturday | 17:00 - 18:30 | Grownups | ![Tófa](img/kort/dyr_600px/tofa.png) Tófa |
 
 Monika Bar - "Building Communities for Mental Resilience"
 

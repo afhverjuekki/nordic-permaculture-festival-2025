@@ -11,7 +11,9 @@ tags: program, childrens, workshops
     import Image from  '$lib/Image.svelte'
 </script>
 
-Friday, 17:00 - 18:30
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Friday | 17:00 - 18:30 | All ages | ![Kálfur](img/kort/dyr_600px/kalfur.png) Kálfur |
 
 Eldrid Skudal - "Painting stones"
 

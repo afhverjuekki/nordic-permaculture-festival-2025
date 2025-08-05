@@ -11,7 +11,9 @@ tags: program, digital, philosophical
     import Image from  '$lib/Image.svelte'
 </script>
 
-Saturday, 9:30 - 11:00
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Saturday | 9:30 - 11:00 | Grownups & teens | ![Hreindýr](img/kort/dyr_600px/hreindyr.png) Hreindýr |
 
 Jack Armitage - "Permacomputing: What, Why and How?"
 

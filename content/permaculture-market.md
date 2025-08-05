@@ -11,7 +11,9 @@ tags: program, activities
     import Image from  '$lib/Image.svelte'
 </script>
 
-Sunday, 11:00 - 12:00
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Sunday | 11:00 - 12:00 | All ages | ![Skata](img/kort/dyr_600px/skata.png) Skata |
 
 Permaculture Market & Swap: Sharing Goods, Skills, and Ideas
 

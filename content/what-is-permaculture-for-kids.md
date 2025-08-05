@@ -11,7 +11,9 @@ tags: info
     import Image from  '$lib/Image.svelte'
 </script>
 
-Friday, 17:00 - 18:30
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Friday | 17:00 - 18:30 | Older kids & teens | ![Tófa](img/kort/dyr_600px/tofa.png) Tófa |
 
 What is permaculture workshop specifically designed for older kids and teenagers.
 

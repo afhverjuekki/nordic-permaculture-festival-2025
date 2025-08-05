@@ -11,7 +11,9 @@ tags: program, digital, philosophical
     import Image from  '$lib/Image.svelte'
 </script>
 
-Saturday, 9:30 - 11:00
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Sunday | 9:30 - 11:00 | Young kids & older kids | ![Kálfur](img/kort/dyr_600px/kalfur.png) Kálfur |
 
 Kate Crowe - “Children Draw Health”
 

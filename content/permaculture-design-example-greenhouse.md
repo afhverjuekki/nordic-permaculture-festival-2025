@@ -11,7 +11,9 @@ tags: program, practical, gardening
     import Image from  '$lib/Image.svelte'
 </script>
 
-Saturday, 9:30 - 11:00
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Saturday | 9:30 - 11:00 | Grownups | ![Mús](img/kort/dyr_600px/mus.png) Mús |
 
 Eldrid Skudal - "My journey towards understanding permaculture design, through designing my greenhouse"
 

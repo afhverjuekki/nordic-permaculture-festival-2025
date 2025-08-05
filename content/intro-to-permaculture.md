@@ -11,7 +11,9 @@ tags: program, digital, philosophical
     import Image from  '$lib/Image.svelte'
 </script>
 
-Friday, 9:30 - 11:00
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Friday | 9:30 - 11:00 | Teens & grownups | ![Hreindýr](img/kort/dyr_600px/hreindyr.png) Hreindýr |
 
 Aníta Rübberdt & Ragna Dagbjört Davíðsdóttir - "Intro to Permaculture".
 

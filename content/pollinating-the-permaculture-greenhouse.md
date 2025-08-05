@@ -11,7 +11,9 @@ tags: program, practical, gardening
     import Image from  '$lib/Image.svelte'
 </script>
 
-Friday, 17:00 - 18:30
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Friday | 17:00 - 18:30 | Grownups | ![Mús](img/kort/dyr_600px/mus.png) Mús |
 
 Thomas Pausz - "Pollinating the Permaculture Greenhouse".
 

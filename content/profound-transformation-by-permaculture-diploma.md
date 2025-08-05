@@ -11,7 +11,9 @@ tags: program, social, community
     import Image from  '$lib/Image.svelte'
 </script>
 
-Saturday, 15:00 - 16:30
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Saturday | 15:00 - 16:30 | Grownups | ![Tófa](img/kort/dyr_600px/tofa.png) Tófa |
 
 Aleksandra Kudojar - "Enable your own profound transformation by joining diploma programme"
 

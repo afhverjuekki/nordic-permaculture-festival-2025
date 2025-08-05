@@ -11,7 +11,9 @@ tags: program, childrens, workshops
     import Image from  '$lib/Image.svelte'
 </script>
 
-Saturday, 11:30 - 13:00
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Saturday | 11:30 - 13:00 | Grownups & teens | ![Tófa](img/kort/dyr_600px/tofa.png) Tófa |
 
 Þórey Hannesdóttir - "Rooting" for unwanted garments - Felting workshop
 

@@ -11,7 +11,9 @@ tags: program, activities
     import Image from  '$lib/Image.svelte'
 </script>
 
-Saturday, 20:00 -
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Saturday | 20:00 - | Grownups, teens & older kids | ![Kisa](img/kort/dyr_600px/kisa.png) Kisa |
 
 Marina Ermina - "Sound relaxation and nature meditation"
 

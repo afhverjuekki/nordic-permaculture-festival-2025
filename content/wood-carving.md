@@ -11,7 +11,9 @@ tags: program, childrens, workshops
     import Image from  '$lib/Image.svelte'
 </script>
 
-Saturday, 9:30 - 11:00
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Saturday | 9:30 - 11:00 | Grownups, teens & older kids | ![Lundur](img/kort/dyr_600px/lundur.png) Lundur (![Skata](img/kort/dyr_600px/skata.png) Skata if raining) |
 
 Helena Hansdóttir Aspelund - "Wood Carving"
 

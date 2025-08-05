@@ -11,7 +11,9 @@ tags: program, social, community
     import Image from  '$lib/Image.svelte'
 </script>
 
-Sunday, 9:30 - 11:00
+| Day | Time | Age Group | Location |
+|---------|-------|--------|---|
+| Sunday | 9:30 - 11:00 | Grownups | ![Selur](img/kort/dyr_600px/selur.png) Selur (![Hvalur](img/kort/dyr_600px/hvalur.png) Hvalur if raining) |
 
 Eirik Lillebøe Wiken - "Men's circle"
 
